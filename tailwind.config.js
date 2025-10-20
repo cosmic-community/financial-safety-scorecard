@@ -12,6 +12,7 @@ module.exports = {
         secondary: '#10B981',
         danger: '#EF4444',
         warning: '#F59E0B',
+        border: '#E5E7EB', // Added: Missing border color for border-border class
       },
       fontFamily: {
         sans: ['Inter', 'ui-sans-serif', 'system-ui', '-apple-system', 'BlinkMacSystemFont', 'sans-serif'],
